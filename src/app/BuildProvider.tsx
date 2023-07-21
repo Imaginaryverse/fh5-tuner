@@ -22,8 +22,6 @@ import {
   calcPowerWeightRatio,
   calcReboundStiffness,
   calcSpringRate,
-  hpToKw,
-  lbsToKg,
 } from '../utils';
 
 type BuildContextType = {

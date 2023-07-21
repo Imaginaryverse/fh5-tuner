@@ -1,14 +1,5 @@
 import { FunctionComponent, useState } from 'react';
-import { ExpandLess, ExpandMore } from '@mui/icons-material';
-import {
-  Paper,
-  Box,
-  Typography,
-  IconButton,
-  Collapse,
-  FormControl,
-  TextField,
-} from '@mui/material';
+import { Paper, Box, Collapse, FormControl, TextField } from '@mui/material';
 import { useBuild } from '../app/BuildContext';
 import { FormHeader } from './FormHeader';
 

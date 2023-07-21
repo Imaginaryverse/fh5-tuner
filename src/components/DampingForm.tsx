@@ -2,7 +2,6 @@ import { FunctionComponent, useState } from 'react';
 import { useBuild } from '../app/BuildContext';
 import { ExpandLess, ExpandMore } from '@mui/icons-material';
 import {
-  Paper,
   Box,
   Typography,
   IconButton,
